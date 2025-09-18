@@ -1,8 +1,8 @@
 package job
 
 import (
-	"x-ui/logger"
-	"x-ui/web/service"
+	"github.com/MHSanaei/3x-ui/logger"
+	"github.com/MHSanaei/3x-ui/web/service"
 )
 
 type CheckXrayRunningJob struct {

@@ -4,7 +4,7 @@ import (
 	"encoding/gob"
 	"net/http"
 
-	"x-ui/database/model"
+	"github.com/MHSanaei/3x-ui/database/model"
 
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"

@@ -8,11 +8,11 @@ import (
 	"strings"
 	"time"
 
-	"x-ui/database"
-	"x-ui/database/model"
-	"x-ui/logger"
-	"x-ui/util/common"
-	"x-ui/xray"
+	"github.com/MHSanaei/3x-ui/database"
+	"github.com/MHSanaei/3x-ui/database/model"
+	"github.com/MHSanaei/3x-ui/logger"
+	"github.com/MHSanaei/3x-ui/util/common"
+	"github.com/MHSanaei/3x-ui/xray"
 
 	"gorm.io/gorm"
 )

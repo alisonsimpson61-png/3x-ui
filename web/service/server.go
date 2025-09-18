@@ -19,12 +19,12 @@ import (
 	"sync"
 	"time"
 
-	"x-ui/config"
-	"x-ui/database"
-	"x-ui/logger"
-	"x-ui/util/common"
-	"x-ui/util/sys"
-	"x-ui/xray"
+	"github.com/MHSanaei/3x-ui/config"
+	"github.com/MHSanaei/3x-ui/database"
+	"github.com/MHSanaei/3x-ui/logger"
+	"github.com/MHSanaei/3x-ui/util/common"
+	"github.com/MHSanaei/3x-ui/util/sys"
+	"github.com/MHSanaei/3x-ui/xray"
 
 	"github.com/google/uuid"
 	"github.com/shirou/gopsutil/v4/cpu"

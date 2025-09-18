@@ -11,13 +11,13 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/goccy/go-json"
 
-	"x-ui/database"
-	"x-ui/database/model"
-	"x-ui/logger"
-	"x-ui/util/common"
-	"x-ui/util/random"
-	"x-ui/web/service"
-	"x-ui/xray"
+	"github.com/MHSanaei/3x-ui/database"
+	"github.com/MHSanaei/3x-ui/database/model"
+	"github.com/MHSanaei/3x-ui/logger"
+	"github.com/MHSanaei/3x-ui/util/common"
+	"github.com/MHSanaei/3x-ui/util/random"
+	"github.com/MHSanaei/3x-ui/web/service"
+	"github.com/MHSanaei/3x-ui/xray"
 )
 
 type SubService struct {

@@ -1,4 +1,4 @@
-module x-ui
+module github.com/MHSanaei/3x-ui
 
 go 1.25.1
 

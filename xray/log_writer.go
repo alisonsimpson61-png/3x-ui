@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"strings"
 
-	"x-ui/logger"
+	"github.com/MHSanaei/3x-ui/logger"
 )
 
 func NewLogWriter() *LogWriter {
